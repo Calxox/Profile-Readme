@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left">• Getting qualified in my degree<br>• Learn RUST<br>• Build an application away from my coursework<br>• Upload my Hyperland Rice (forked from jakoolit)</p>
+<p align="left">• Getting qualified in my degree<br>• Learn RUST<br>• Build an application away from my coursework</p>
 
 ###
 
