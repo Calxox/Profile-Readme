@@ -1,5 +1,5 @@
-<h2 align="center">Welcome to my Github!<br> My name is Calxox, I am currently studying to be a Software Engineer</h2>                                                                                                                  
-###
+<h2 align="center">Welcome to my Github!<br> My name is Calxox, I am currently studying to be a Software Engineer</h2>                
+
 
 <p align="center">I prefer everything and anything to look good and simplistic, and it is shown in the way I code</p>
 
