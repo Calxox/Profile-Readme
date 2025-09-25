@@ -80,5 +80,5 @@
 <p align="left">if you've scrolled this far might as well follower</p>
 
 <h2>School GitHub:</h2>
-<link href="https://www.github.com/Cxlvxn-o> Link <link>
+<link href="https://www.github.com/Cxlvxn-o> <a>Link</a> <link>
 ###
