@@ -75,6 +75,8 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans+Serif+Bold&duration=2000&pause=100000&center=true&width=1080&separator=%3C&lines=Always+fixing+bugs%3COr+making+bugs+;))](https://git.io/typing-svg)
+
 <p align="left">if you've scrolled this far might as well follower<br><------</p>
 
 ###
