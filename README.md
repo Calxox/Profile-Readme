@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Calxox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Calxox.Calxox&"  />
+
 ###
 
 <h2 align="center">TECH STACK</h2>
@@ -77,9 +79,5 @@
 ###
 
 <p align="left">if you've scrolled this far might as well follower<br><------</p>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Calxox.Calxox&"  />
 
 ###
