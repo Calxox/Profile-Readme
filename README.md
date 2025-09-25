@@ -59,7 +59,7 @@
 
 ###
 
-<h2 align="center">CURRENT PROJECTS</h2>
+<h2 align="center">CURRENT AGENDA</h2>
 
 ###
 
