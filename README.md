@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left"><hr></p> <!-- Hello there>
+<p align="left"><hr></p> <!-- -->
 
 ###
 
