@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to my Github!<br> My name is Calxox, I am currently studying to be a Software Engineer</h2>                
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning+and+adapting;Software+Engineer)](https://git.io/typing-svg)
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning+and+adapting;Software+Engineer)](https://git.io/typing-svg)</div>
 
 ###
 
