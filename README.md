@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left">• Getting qualified in my degree<br>• Learn RUST<br>• Build an application away from my coursework</p>
+<p align="left">• Getting qualified in my degree <br> • Build an application away from my coursework</p>
 
 ###
 
